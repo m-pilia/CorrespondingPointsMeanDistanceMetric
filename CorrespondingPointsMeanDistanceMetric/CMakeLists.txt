@@ -1,0 +1,8 @@
+
+ADD_ELXCOMPONENT( CorrespondingPointsMeanDistanceMetric
+ elxCorrespondingPointsMeanDistanceMetric.cxx
+ elxCorrespondingPointsMeanDistanceMetric.h
+ elxCorrespondingPointsMeanDistanceMetric.hxx
+ itkCorrespondingPointsMeanDistancePointMetric.h
+ itkCorrespondingPointsMeanDistancePointMetric.hxx )
+
